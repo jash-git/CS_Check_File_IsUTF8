@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\CS_Check_File_IsUTF8\CS_Check_File_IsUTF8\bin\Debug\CS_Check_File_IsUTF8.exe.config
+C:\Users\jashliao\Desktop\CS_Check_File_IsUTF8\CS_Check_File_IsUTF8\bin\Debug\CS_Check_File_IsUTF8.exe
+C:\Users\jashliao\Desktop\CS_Check_File_IsUTF8\CS_Check_File_IsUTF8\bin\Debug\CS_Check_File_IsUTF8.pdb
+C:\Users\jashliao\Desktop\CS_Check_File_IsUTF8\CS_Check_File_IsUTF8\obj\Debug\CS_Check_File_IsUTF8.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_Check_File_IsUTF8\CS_Check_File_IsUTF8\obj\Debug\CS_Check_File_IsUTF8.exe
+C:\Users\jashliao\Desktop\CS_Check_File_IsUTF8\CS_Check_File_IsUTF8\obj\Debug\CS_Check_File_IsUTF8.pdb
